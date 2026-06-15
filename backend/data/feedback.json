@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-05-30T11:38:26.615804+00:00",
+    "original_text": "\u0c2c\u0c38\u0c4d\u0c38\u0c41 \u0c0e\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c41 \u0c35\u0c38\u0c4d\u0c24\u0c26\u0c3f?",
+    "input_type": "Telugu Script",
+    "telugu_script": "\u0c2c\u0c38\u0c4d\u0c38\u0c41 \u0c0e\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c41 \u0c35\u0c38\u0c4d\u0c24\u0c26\u0c3f?",
+    "normalized_telugu": "\u0c2c\u0c38\u0c4d\u0c38\u0c41 \u0c0e\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c41 \u0c35\u0c38\u0c4d\u0c24\u0c41\u0c02\u0c26\u0c3f?",
+    "dialect": "Telangana",
+    "intent": "Transportation",
+    "feedback_type": "unrated",
+    "corrected_intent": null,
+    "corrected_english": null,
+    "corrected_tamil": null,
+    "english_translation": "When will the bus arrive?",
+    "tamil_translation": "\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b8e\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bcd?",
+    "tamil_romanized": "Perunthu eppodhu varum?"
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-05-30T11:38:28.816495+00:00",
+    "original_text": "bus eppudu vasthadi?",
+    "input_type": "Roman Telugu",
+    "telugu_script": "\u0c2c\u0c38\u0c4d\u0c38\u0c41 \u0c0e\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c41 \u0c35\u0c38\u0c4d\u0c24\u0c26\u0c3f?",
+    "normalized_telugu": "\u0c2c\u0c38\u0c4d\u0c38\u0c41 \u0c0e\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c41 \u0c35\u0c38\u0c4d\u0c24\u0c41\u0c02\u0c26\u0c3f?",
+    "dialect": "Telangana",
+    "intent": "Transportation",
+    "feedback_type": "unrated",
+    "corrected_intent": null,
+    "corrected_english": null,
+    "corrected_tamil": null,
+    "english_translation": "When will the bus arrive?",
+    "tamil_translation": "\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b8e\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bcd?",
+    "tamil_romanized": "Perunthu eppodhu varum?"
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-05-30T11:46:46.743322+00:00",
+    "original_text": "ikkada biryani ekkada manchiga untadhi anna?",
+    "input_type": "Roman Telugu",
+    "telugu_script": "ikkada biryani \u0c0e\u0c15\u0c4d\u0c15\u0c21 manchiga untadhi anna?",
+    "normalized_telugu": "ikkada biryani \u0c0e\u0c15\u0c4d\u0c15\u0c21 manchiga untadhi anna?",
+    "dialect": "Standard Telugu",
+    "intent": "Food / Dining",
+    "feedback_type": "incorrect",
+    "corrected_intent": "Food / Dining",
+    "corrected_english": "here, where does the biryani tastes good",
+    "corrected_tamil": "Inge enga biryani nalla irukkum?",
+    "english_translation": "Where is a place?",
+    "tamil_translation": "\u0b92\u0bb0\u0bc1 \u0b87\u0b9f\u0bae\u0bcd \u0b8e\u0b99\u0bcd\u0b95\u0bc7 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1?",
+    "tamil_romanized": "Oru idam enge irukkirathu?"
+  }
+]

@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;600;700;800&display=swap');
+
+@import "tailwindcss";
+
+:root {
+  --background: #F8F4EE;
+  --foreground: #3D2B1F;
+  --card: #F1E8DC;
+  --primary: #8B5E3C;
+  --secondary: #B08968;
+  --accent: #D4A373;
+  --text: #3D2B1F;
+  --muted: #7A6A5C;
+  --success: #4CAF50;
+  --error: #E53935;
+  --border: #E8DCCF;
+}
+
+@theme {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-primary: var(--primary);
+  --color-secondary: var(--secondary);
+  --color-accent: var(--accent);
+  --color-text-main: var(--text);
+  --color-text-muted: var(--muted);
+  --color-success: var(--success);
+  --color-error: var(--error);
+  --color-border-custom: var(--border);
+  --radius-custom: 20px;
+  
+  --font-outfit: 'Outfit', sans-serif;
+  --font-inter: 'Inter', sans-serif;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Outfit', sans-serif;
+}
+
+/* Custom animation classes for transitions */
+.smooth-hover {
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.custom-shadow {
+  box-shadow: 0 4px 20px -2px rgba(139, 94, 60, 0.08);
+}
+
+.custom-shadow-hover {
+  box-shadow: 0 10px 30px -4px rgba(139, 94, 60, 0.15);
+}
